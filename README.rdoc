@@ -6,6 +6,8 @@ Hanging out in the README file
 
 This is a new feature
 
+Get ready 4 ur merge conflict. It is a'coming your way. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
