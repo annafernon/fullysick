@@ -4,6 +4,8 @@ Hello there!
 
 Hanging out in the README file
 
+This is a new feature
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
