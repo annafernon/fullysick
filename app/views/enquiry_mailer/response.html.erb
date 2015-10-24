@@ -1,0 +1,33 @@
+<h1>Thanks!</h1>
+
+<p>
+  Hi <%= @enquiry.name %>, your enquiry has been received. One of our friendly team will get back to you shortly.
+  <%= @greeting %>, find me in app/views/enquiry_mailer/response.html.erb
+</p>
+
+<p>Here are the detials of your enquiry</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @enquiry.email %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @enquiry.name %>
+</p>
+
+<p>
+  <strong>Message:</strong>
+  <%= @enquiry.message %>
+</p>
+
+<p>
+  <strong>Phone:</strong>
+  <%= @enquiry.phone %>
+</p>
+
+<p>
+  <strong>Enquiry type:</strong>
+  <%= @enquiry.enquiry_type %>
+</p>
