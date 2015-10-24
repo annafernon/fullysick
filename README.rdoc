@@ -6,7 +6,11 @@ Hanging out in the README file
 
 This is a new feature
 
+
 This is another line. I can't type anything today. 
+
+Get ready 4 ur merge conflict. It is a'coming your way. 
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
